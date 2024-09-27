@@ -6,9 +6,6 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.BeforeTest;
-import org.testng.annotations.DataProvider;
-
-import utils.DataInputProvider;
 
 public class LeafTapsWrappers extends GenericWrappers {
 
